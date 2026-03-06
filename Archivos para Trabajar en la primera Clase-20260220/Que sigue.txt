@@ -1,0 +1,5 @@
+Qué sigue
+Has terminado el ciclo básico de backend crear, guardar, subir y desplegar. De ahora en adelante, cada vez que hagas un cambio en VS Code, solo haz
+git add .
+git commit -m Descripción del cambio
+git push
